@@ -1,6 +1,6 @@
 [project]
 name = "maskpw"
-readme = {file = "README.md"}
+readme = {file = "README.md", content-type = "text/x-md"}
 authors = [{name = "harmony5", email = "jeancgo1@protonmail.com"}]
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
